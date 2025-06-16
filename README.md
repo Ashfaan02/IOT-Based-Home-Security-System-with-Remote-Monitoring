@@ -1,2 +1,5 @@
 # IOT-Based-Home-Security-System-with-Remote-Monitoring
 A smart security system designed to enhance home safety using IoT technology. It integrates sensors to detect motion, intrusion, or gas leakage, with manual control through a Bluetooth interface. The system allows users to monitor and control security devices locally, providing a cost-effective and user-friendly solution for home protection.
+This project presents a smart home security system based on the Internet of Things (IoT) using an ESP32 microcontroller, a PIR motion sensor, and a buzzer. The system is designed to detect motion inside or around a home and immediately notify the user through remote monitoring via Firebase.
+
+The primary aim is to provide real-time intrusion detection and alerts to homeowners, enabling them to take immediate action from any location with internet access. The system integrates Wi-Fi communication, cloud storage (Firebase), and optionally supports camera capture or messaging services like Telegram or Email for better security and awareness.
